@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+    
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: brown;
+}
+.banner{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+.perros{
+    margin-top: 100px;
+    width: 24%;
+    height: 300px;
+    margin: 5px
+
+    
+}
+.fotos{
+    margin-top: 60px;
+
+}
